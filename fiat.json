@@ -1,0 +1,74 @@
+[
+  {
+    "model": "Fiorino",
+    "year": 2020,
+    "line": "Full",
+    "doors": 2,
+    "fuel": "Nafta",
+    "price_usd": 30990
+  },
+  {
+    "model": "Pulse",
+    "year": 2022,
+    "line": "Audace 1.3 Cvt",
+    "doors": 5,
+    "fuel": "Nafta",
+    "price_usd": 30990
+  },
+  {
+    "model": "Pulse",
+    "year": 2022,
+    "line": "Drive 1.3 Mt",
+    "doors": 5,
+    "fuel": "Nafta",
+    "price_usd": 25200
+  },
+  {
+    "model": "Pulse",
+    "year": 2022,
+    "line": "Impetus 1.0 Cvt",
+    "doors": 5,
+    "fuel": "Nafta",
+    "price_usd": 32500
+  },
+  {
+    "model": "Strada",
+    "line": "Endurance Cc Plus 1.4 Cc",
+    "doors": 4,
+    "fuel": "Nafta",
+    "year": 2020,
+    "price_usd": 16690
+  },
+  {
+    "model": "Strada",
+    "line": "Freedom DC 1.4 cc Full",
+    "doors": 5,
+    "fuel": "Nafta",
+    "year": 2022,
+    "price_usd": 20790
+  },
+  {
+    "model": "Strada",
+    "line": "Volcano Dc 1.3 Cc Extra Full",
+    "doors": 5,
+    "fuel": "Nafta",
+    "year": 2020,
+    "price_usd": 23490
+  },
+  {
+    "model": "Toro ",
+    "year": 2022,
+    "line": "Freedom 1.8cc At6 Extra Full",
+    "doors": 5,
+    "fuel": "Nafta",
+    "price_usd": 29890
+  },
+  {
+    "model": "Toro ",
+    "year": 2022,
+    "line": "Freedom 2.0cc Extra Full Turbo DIESEL MULTIJET",
+    "doors": 4,
+    "fuel": "Diesel",
+    "price_usd": 47990
+  }
+]
